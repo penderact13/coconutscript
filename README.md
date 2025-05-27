@@ -4,10 +4,10 @@ AKA Colon Script.
 Still in development, and still working on a compiler, but this is all I've made.
 Coconut Script is inspired by C++ and scratch.mit.edu
 # Update Log
-2025/05/26
-Release
-Added Sample
-Added Table
+2025/05/26 <br>
+Release <br>
+Added Sample <br>
+Added Table <br>
 Table Complete; Version 0.2!
 # General Info
 Here is some general info.
