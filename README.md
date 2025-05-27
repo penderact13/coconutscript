@@ -3,6 +3,12 @@ The home of Coconut Script.
 AKA Colon Script.
 Still in development, and still working on a compiler, but this is all I've made.
 Coconut Script is inspired by C++ and scratch.mit.edu
+# Update Log
+2025/05/26
+Release
+Added Sample
+Added Table
+Table Complete; Version 0.2!
 # General Info
 Here is some general info.
 This coding language does not use parentheses. Actually the text inside of a parentheses is a comment.
