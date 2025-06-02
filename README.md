@@ -3,6 +3,7 @@ The home of Coconut Script.
 AKA Colon Script.
 Still in development, and still working on a compiler, but this is all I've made.
 Coconut Script is inspired by C++ and scratch.mit.edu
+Planning for the compiler to first be made in GoLang, then maybe 2.0 in C++ or Rust.
 # Update Log
 2025/05/26 <br>
 Release <br>
