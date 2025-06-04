@@ -166,4 +166,4 @@ This makes a object that follows the mouse, but bounces when it reaches the corn
 |   null                                         |   Empty value. AKA false. When variables are declared, but not assigned they are this.                                                                                                                                                           |
 |   sqrt:2                                       |   Finds the square root.                                                                                                                                                                                                                         |
 |   cbrt:8                                       |   Finds the cube root                                                                                                                                                                                                                            |
-the secret word is smash smash (include smash twice in your form, don't make it obvious)
+the secret word is smash smash (include smash in your form, don't make it obvious)
